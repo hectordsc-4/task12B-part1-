@@ -1,0 +1,19 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Hello Toast</string>
+
+    <!-- Buttons -->
+    <string name="increment">Increment</string>
+    <string name="decrement">Decrement</string>
+    <string name="show_toast">Show Toast</string>
+
+    <!-- Navigation fragments -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <!-- Menu -->
+    <string name="action_settings">Settings</string>
+</resources>
